@@ -59,6 +59,13 @@
 
             #endregion
 
+            #region #10
+
+            //interface constraint is used to indicate the requirements for the parameter type
+            //Example where T:  IComparable
+
+            #endregion
+
 
 
 
