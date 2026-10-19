@@ -22,6 +22,12 @@
 
             #endregion
 
+            #region 4# Question
+
+            // Generic method is a method that defines its own parameter type
+
+            #endregion
+
 
 
         }
