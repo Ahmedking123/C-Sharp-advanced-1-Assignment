@@ -97,6 +97,11 @@
 
             #endregion
 
+            #region #16
+
+            //contravarince is when we assign a  base type object to derived type reference when the base type is expected, in determines the paramater type is going to be an input
+
+            #endregion
 
 
 
