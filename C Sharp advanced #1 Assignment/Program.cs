@@ -91,6 +91,12 @@
 
             #endregion
 
+            #region #15
+
+            //Covariance is when we assign a Derived type object to a base type reference when the base type object is expected, out determines the the parameter type is going to be an output
+
+            #endregion
+
 
 
 
