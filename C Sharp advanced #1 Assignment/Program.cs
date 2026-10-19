@@ -38,6 +38,14 @@
 
             #endregion
 
+            #region #7
+
+            //struct constraint indicates whether the the type of the parameter is going to be a value type
+            //Example where T : struct
+
+            #endregion
+
+
 
 
 

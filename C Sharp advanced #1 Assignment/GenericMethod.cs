@@ -6,9 +6,9 @@ using System.Text;
 
 namespace C_Sharp_advanced__1_Assignment
 {
-    internal static class GenericMethods<T> 
+    internal static class GenericMethods 
     {
-        static void Swap(ref T First,ref T Second)
+        static void Swap<T>(ref T First,ref T Second)
         {
             T temp = First;
             First = Second;
