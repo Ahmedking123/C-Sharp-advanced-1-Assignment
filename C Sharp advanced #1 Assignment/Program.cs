@@ -109,6 +109,12 @@
 
             #endregion
 
+            #region #18
+
+            //static members their values are spacified to each type
+
+            #endregion
+
 
 
 
