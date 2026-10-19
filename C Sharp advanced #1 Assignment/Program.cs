@@ -103,6 +103,12 @@
 
             #endregion
 
+            #region #17
+
+            //covaraince lets you use derived types while contravarince lets you use base types
+
+            #endregion
+
 
 
 
