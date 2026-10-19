@@ -73,6 +73,12 @@
 
             #endregion
 
+            #region 12#
+
+            //Where T: class,INumber,new()
+
+            #endregion
+
 
 
 
