@@ -66,6 +66,13 @@
 
             #endregion
 
+            #region 11#
+
+            //Base Class Constraint indicates the base type the parameter should inherit from
+            //Example Where T: BaseEntity
+
+            #endregion
+
 
 
 
