@@ -115,6 +115,12 @@
 
             #endregion
 
+            #region #19
+
+            //by applying the same constraints to the derived class
+
+            #endregion
+
 
 
 
