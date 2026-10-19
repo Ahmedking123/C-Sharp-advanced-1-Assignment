@@ -28,11 +28,17 @@
 
             #endregion
 
-            #region 
-
-
+            #region #5
 
             #endregion
+
+            #region #6
+
+            //Generic Interface is an Interface its paramter type is defined when Being Implemented
+
+            #endregion
+
+
 
 
 
