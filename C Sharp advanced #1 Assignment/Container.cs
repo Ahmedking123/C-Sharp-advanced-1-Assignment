@@ -6,7 +6,7 @@ namespace C_Sharp_advanced__1_Assignment
 {
     internal class Container<T>
     {
-        private readonly List<T> list = new List<T>;
+        private readonly List<T> list = new List<T>();
 
         public void Add(T Item)
         {
