@@ -45,6 +45,15 @@
 
             #endregion
 
+            #region #8
+
+            //class constraint indicates whether the type of the parameter going to be reference type
+            //Example where T: class
+
+            #endregion
+
+
+
 
 
 
