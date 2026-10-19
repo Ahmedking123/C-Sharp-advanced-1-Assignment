@@ -16,6 +16,12 @@
 
             #endregion
 
+            #region 3#
+
+            //a Generic class with multiple type parameter
+
+            #endregion
+
 
 
         }
